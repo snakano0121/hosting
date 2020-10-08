@@ -3,8 +3,8 @@
     "id": "gsi-bvmap",
     "name": "GSI-BinaryVectorMap",
     "format": "pbf",
-    "maxzoom": 17,
-    "minzoom": 5,
+    "maxzoom": 14,
+    "minzoom": 14,
     "attribution": "国土地理院",
     "description": "GSI Experiment",
     "vector_layers": [
