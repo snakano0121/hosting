@@ -14,7 +14,7 @@
                 "motorway": "String"
             },
             "maxzoom": 14,
-            "minzoom": 0,
+            "minzoom": 14,
             "description": ""
         }
     ],
