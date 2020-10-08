@@ -3,8 +3,8 @@
     "id": "gsi-bvmap",
     "name": "GSI-BinaryVectorMap",
     "format": "pbf",
-    "maxzoom": 14,
-    "minzoom": 14,
+    "maxzoom": 17,
+    "minzoom": 0,
     "attribution": "国土地理院",
     "description": "GSI Experiment",
     "vector_layers": [
@@ -14,7 +14,7 @@
                 "motorway": "String"
             },
             "maxzoom": 14,
-            "minzoom": 14,
+            "minzoom": 0,
             "description": ""
         }
     ],
